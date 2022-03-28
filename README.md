@@ -1,6 +1,6 @@
 # camera_flutter
 
-A new Flutter project.
+A new Flutter project for test Camera and send captured Image to server
 
 ## Getting Started
 
